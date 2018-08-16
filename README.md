@@ -1,6 +1,6 @@
 To clone the repository run the following command in your terminal.
 
-git clone https://github.com/ashishkkhatri/react-with-redux.git
+git clone https://github.com/ashishkkhatri/CryptoPortfolio.git
 
 Run "npm install" to install the app dependencies.
 
